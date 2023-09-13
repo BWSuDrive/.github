@@ -1,0 +1,1 @@
+Copy and Paste the swagger.json to https://editor.swagger.io/ to view API REST Endpoints
